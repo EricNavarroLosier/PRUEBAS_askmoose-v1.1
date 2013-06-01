@@ -1,4 +1,4 @@
-PRUEBAS_askmoose
-================
+AskMoose-v1.0
+=============
 
-para las pruebas y no tocar el Proyecto bueno
+PROYECTO Eric N., Álvaro G., Carlos F., Rodrigo J.
